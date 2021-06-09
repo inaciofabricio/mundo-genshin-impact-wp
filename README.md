@@ -7,4 +7,4 @@ Site criado seguindo as orientações da Formação Wordpress da Alura.
 - Elementor (Plugin)
 - 000webhost (Hospedagem Free)
 
-[Visite o Site!](https://cursos.alura.com.br/user/estudoaluracg/degree-java-76916/certificate "Visite o Site!")
+[Visite o Site!](https://mundo-gi.000webhostapp.com/ "Visite o Site!")
